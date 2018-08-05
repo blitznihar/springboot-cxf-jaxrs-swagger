@@ -1,0 +1,7 @@
+com\fusion\service\CustomerRestService.class
+com\fusion\service\OrderRestService.class
+com\fusion\model\Customer.class
+com\fusion\config\ApiOriginFilter.class
+com\fusion\model\Order.class
+com\fusion\Application.class
+com\fusion\config\AppConfig.class
